@@ -1,0 +1,15 @@
+ProjectNAme,SampleNAme,RNA_seq,DNA_seq,Methyl_seq,RNA_seq_Returned,DNA_seq_Returned,Methyl_seq_Returned,RNA_seq_PassQC,DNA_seq_PassQC,Methyl_seq_PassQC,RNA_seq_Biopipeline,DNA_seq_Biopipeline,Methyl_seq_Biopipeline
+P1,pan_tumor_S1,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Complete,Complete,Complete
+P1,pan_tumor_S2,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,Complete,Complete,Complete
+P1,Pan_nomal_S1,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,Complete,Complete,Complete
+P1,Pan_normal_S2,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,Complete,Complete,Complete
+P2,lung_tumor_S1,FALSE,TRUE,FALSE,NA,TRUE,NA,NA,TRUE,NA,NA,Complete,NA
+P2,lung_tumor_S2,FALSE,TRUE,FALSE,NA,TRUE,NA,NA,TRUE,NA,NA,Complete,NA
+P2,lung_tumor_S3,FALSE,TRUE,FALSE,NA,TRUE,NA,NA,TRUE,NA,NA,Complete,NA
+P2,lung_normal_S1,FALSE,TRUE,FALSE,NA,TRUE,NA,NA,FALSE,NA,NA,Complete,NA
+P2,lung_normal_S2,FALSE,TRUE,FALSE,NA,TRUE,NA,NA,TRUE,NA,NA,Complete,NA
+P2,lung_normal_S3,FALSE,TRUE,FALSE,NA,TRUE,NA,NA,TRUE,NA,NA,Complete,NA
+P3,others_tumor_S1,TRUE,TRUE,FALSE,TRUE,TRUE,NA,TRUE,TRUE,NA,Complete,Complete,NA
+P3,others_tumor_S2,TRUE,TRUE,FALSE,FALSE,TRUE,NA,FALSE,TRUE,NA,Complete,Complete,NA
+P3,others_normal_S1,TRUE,TRUE,FALSE,TRUE,TRUE,NA,TRUE,TRUE,NA,Complete,Complete,NA
+P3,others_normal_S2,TRUE,TRUE,FALSE,TRUE,TRUE,NA,TRUE,TRUE,NA,Complete,Complete,NA
